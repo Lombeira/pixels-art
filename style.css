@@ -109,8 +109,8 @@ button:nth-child(2) {
 }
 
 .pixel {
-  width: 40px;
-  height: 40px;
+  width: 20px;
+  height: 20px;
   background-color: white;
   border: 1px solid black;
 }
